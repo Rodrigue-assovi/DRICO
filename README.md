@@ -1,2 +1,0 @@
-# DRICO
-ASSDRICO
